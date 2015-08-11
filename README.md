@@ -1,6 +1,6 @@
 # github-101
 
-GitHub 101: An Introduction to GitHub
+GitHub 101: An Introduction to GitHub for Me
 
 http://audreywatters.github.io/github-101
 
